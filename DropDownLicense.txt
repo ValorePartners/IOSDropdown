@@ -1,6 +1,6 @@
-﻿For the latest version of Statera's iOS DropDown, visit: 
+For the latest version of Statera's iOS DropDown, visit: 
 
-https://github.com/Statera/mobility-excellence/tree/master/DropDown
+https://github.com/ValorePartners/IOSDropdown
 
 Valore Partners's iOS DropDown is licensed under the following agreement:
 
