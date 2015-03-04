@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{198A157A-58F7-4FBC-B826-AB823114A2B4}"
+	ProjectSection(SolutionItems) = preProject
+		DropDownLicense.txt = DropDownLicense.txt
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Valore.IOSDropDown", "Valore.IOSDropDown\Valore.IOSDropDown.csproj", "{4AF96FF9-F563-4078-A810-6E1E6C784F5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+		Ad-Hoc|iPhone = Ad-Hoc|iPhone
+		AppStore|iPhone = AppStore|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4AF96FF9-F563-4078-A810-6E1E6C784F5B}.Ad-Hoc|iPhone.ActiveCfg = Release|Any CPU
+		{4AF96FF9-F563-4078-A810-6E1E6C784F5B}.Ad-Hoc|iPhone.Build.0 = Release|Any CPU
+		{4AF96FF9-F563-4078-A810-6E1E6C784F5B}.AppStore|iPhone.ActiveCfg = Release|Any CPU
+		{4AF96FF9-F563-4078-A810-6E1E6C784F5B}.AppStore|iPhone.Build.0 = Release|Any CPU
+		{4AF96FF9-F563-4078-A810-6E1E6C784F5B}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{4AF96FF9-F563-4078-A810-6E1E6C784F5B}.Debug|iPhone.Build.0 = Debug|Any CPU
+		{4AF96FF9-F563-4078-A810-6E1E6C784F5B}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{4AF96FF9-F563-4078-A810-6E1E6C784F5B}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{4AF96FF9-F563-4078-A810-6E1E6C784F5B}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{4AF96FF9-F563-4078-A810-6E1E6C784F5B}.Release|iPhone.Build.0 = Release|Any CPU
+		{4AF96FF9-F563-4078-A810-6E1E6C784F5B}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{4AF96FF9-F563-4078-A810-6E1E6C784F5B}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+	EndGlobalSection
+EndGlobal

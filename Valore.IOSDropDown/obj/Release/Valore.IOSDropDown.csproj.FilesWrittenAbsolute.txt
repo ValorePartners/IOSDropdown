@@ -1,0 +1,5 @@
+/Users/Les/Desktop/IOSDropDown/Valore.IOSDropDown/obj/Release/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/Les/Desktop/IOSDropDown/Valore.IOSDropDown/bin/Release/Valore.IOSDropDown.dll.mdb
+/Users/Les/Desktop/IOSDropDown/Valore.IOSDropDown/bin/Release/Valore.IOSDropDown.dll
+/Users/Les/Desktop/IOSDropDown/Valore.IOSDropDown/obj/Release/Valore.IOSDropDown.dll
+/Users/Les/Desktop/IOSDropDown/Valore.IOSDropDown/obj/Release/Valore.IOSDropDown.dll.mdb
